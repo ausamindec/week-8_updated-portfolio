@@ -42,9 +42,10 @@ AS AN employer. I WANT to view a potential employee's deployed portfolio of work
 
 
 # Screenshot
-![Screenshot](././assests/images/#)
+![Screenshot](././assests/images/week_8-demo.gif)
 
 # Link
-link of the Github directory : 
+link of the Github directory : https://github.com/ausamindec/week-8_updated-portfolio.git
+
 # Link of Hosted Website
-link : 
+link : https://ausamindec.github.io/week-8_updated-portfolio/
