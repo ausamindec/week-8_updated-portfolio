@@ -42,7 +42,7 @@ AS AN employer. I WANT to view a potential employee's deployed portfolio of work
 
 
 # Screenshot
-![Screenshot](././assests/images/week_8-demo.gif)
+![Screenshot](./assests/images/Video%20Walkthough%20Personal%20Portfolio.mov)
 
 # Link
 link of the Github directory : https://github.com/ausamindec/week-8_updated-portfolio.git
