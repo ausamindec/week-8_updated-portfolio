@@ -25,7 +25,7 @@ In addition to displaying and properly linking homeworks with functioning image 
 
 
 # Link
-Link of the Github directory : ![GitHub] (https://github.com/ausamindec/week-8_updated-portfolio.git)
+Link of the Github directory :  [GitHub] (https://github.com/ausamindec/week-8_updated-portfolio.git)
 
 # Link of Hosted Website
-Link to Deployed Repository: ![My Portfolio](https://ausamindec.github.io/week-8_updated-portfolio/)
+Link to Deployed Repository: [My Portfolio](https://ausamindec.github.io/week-8_updated-portfolio/)
