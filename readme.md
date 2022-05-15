@@ -6,7 +6,7 @@ I've created a portfolio website based on information given to me on week 7nd as
 Github profile
 Linkedin profile
 Pinned projects : 
-- Project 1 : Flavourful : a recipe finder App
+- Flavourful : a Recipe Finder App
 - Password generator
 - JS Quiz App
 - MIT license
@@ -25,7 +25,7 @@ In addition to displaying and properly linking homeworks with functioning image 
 
 
 # Link
-Link of the Github directory :  [GitHub] (https://github.com/ausamindec/week-8_updated-portfolio.git)
+Link of the Github directory :  [GitHub](https://github.com/ausamindec/week-8_updated-portfolio.git)
 
 # Link of Hosted Website
 Link to Deployed Repository: [My Portfolio](https://ausamindec.github.io/week-8_updated-portfolio/)
