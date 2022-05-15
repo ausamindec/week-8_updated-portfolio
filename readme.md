@@ -1,6 +1,5 @@
 # Portfolio
-I've created a portfolio website based on information given to me on week 7nd assignment, i've modified the protfolio
-(in assignment)..I've tried my best to make it more prettier.
+Created my fully responsive Web Portfolio that contains; my name, -a recent picture about me, -a section about me, -and a section to contactme (the buttoms won't take you to my profiles yet,but it takes you to the main page for each application). the webpage also adapts to diferts viewports.
 
 # Updated:
 Github profile
