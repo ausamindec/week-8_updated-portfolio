@@ -19,9 +19,20 @@ In addition to displaying and properly linking homeworks with functioning image 
 
 
 # Screenshot
+
 ![Watch the video](./assests/images/videoWalkthrogh.gif)
 
+### About
 
+![ScreenShot](./assests/images/About.png)
+
+### Projects
+
+![ScreenShot](./assests/images/MyProjects.png)
+
+### Contact
+
+![ScreenShot](./assests/images/Contact.png)
 
 # Link
 Link of the Github directory :  [GitHub](https://github.com/ausamindec/week-8_updated-portfolio.git)
