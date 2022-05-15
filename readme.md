@@ -18,9 +18,11 @@ In addition to displaying and properly linking homeworks with functioning image 
 
 
 
-# Screenshot
+# Walkthrough Video
 
 ![Watch the video](./assests/images/videoWalkthrogh.gif)
+
+# Screenshots of My Portfolio
 
 ### About
 
